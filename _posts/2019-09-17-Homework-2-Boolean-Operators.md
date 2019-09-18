@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Homework 2: Boolean
+title: Homework 2 Boolean Operators
 ---
 
 
